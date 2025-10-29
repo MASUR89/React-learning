@@ -1,13 +1,10 @@
-import Header from "./Text1";
-import Content from "./Text2";
-import Footer from "./Text3"; 
+import Text1 from './Text';
 
 function App() {
   return (
     <div>
-      <Header />
-      <Content />
-      <Footer />
+      <Text1/>
+    
     </div>
   );
 }
